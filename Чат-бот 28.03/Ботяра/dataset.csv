@@ -1,0 +1,159 @@
+text,intent
+привет,greeting
+здравствуй,greeting
+добрый день,greeting
+доброе утро,greeting
+добрый вечер,greeting
+хай,greeting
+здарова,greeting
+приветствую,greeting
+здравствуйте,greeting
+доброго времени суток,greeting
+салют,greeting
+приветик,greeting
+здрасьте,greeting
+здорово,greeting
+привет всем,greeting
+здравствуйте всем,greeting
+добрый день всем,greeting
+всем привет,greeting
+приветствую вас,greeting
+здорово братан,greeting
+хаюшки,greeting
+здравствуйте как жизнь,greeting
+добрый вечерок,greeting
+какая погода,weather
+погода в москве,weather
+сколько градусов,weather
+температура на улице,weather
+будет ли дождь,weather
+прогноз погоды,weather
+что с погодой,weather
+холодно на улице,weather
+жарко сегодня,weather
+какая температура завтра,weather
+погода на завтра,weather
+снег будет,weather
+ветер сильный,weather
+прогноз на сегодня,weather
+метео,weather
+погода сейчас,weather
+температура сейчас,weather
+какой прогноз,weather
+что за погода,weather
+тепло ли на улице,weather
+градусов сколько,weather
+на улице холодно,weather
+на улице жарко,weather
+погодные условия,weather
+пока,goodbye
+до свидания,goodbye
+всего хорошего,goodbye
+до встречи,goodbye
+увидимся,goodbye
+прощай,goodbye
+бывай,goodbye
+счастливо,goodbye
+удачи,goodbye
+до скорого,goodbye
+всего доброго,goodbye
+покеда,goodbye
+чао,goodbye
+до связи,goodbye
+пока пока,goodbye
+прощайте,goodbye
+до завтра,goodbye
+увидимся позже,goodbye
+до вечера,goodbye
+до скорой встречи,goodbye
+пока удачи,goodbye
+счастливо оставаться,goodbye
+бывайте,goodbye
+всего наилучшего,goodbye
+сложи 5 и 3,addition
+2 плюс 2,addition
+сумма 10 и 20,addition
+прибавь 15 к 7,addition
+сколько будет 8 + 4,addition
+сложение,addition
+плюс,addition
+прибавить,addition
+сложи числа 12 и 8,addition
+вычисли сумму 3 и 6,addition
+плюс 5 и 5,addition
+сложить 4 и 9,addition
+прибавь 10,addition
+сумма 1 и 1,addition
+калькулятор,addition
+сложи 100 и 200,addition
+прибавь 5,addition
+плюс 7,addition
+добавь 3,addition
+плюс 8,addition
+меня зовут Максим,set_name
+меня зовут Анна,set_name
+меня зовут Вовка,set_name
+меня зовут Карл,set_name
+меня зовут Антон,set_name
+меня зовут Петя,set_name
+меня зовут Маша,set_name
+меня зовут Саша,set_name
+меня зовут Дима,set_name
+меня зовут Лена,set_name
+меня зовут Олег,set_name
+меня зовут Катя,set_name
+мое имя Дмитрий,set_name
+мое имя Иван,set_name
+мое имя Сергей,set_name
+мое имя Алексей,set_name
+мое имя Владимир,set_name
+мое имя Наташа,set_name
+мое имя Ольга,set_name
+мое имя Татьяна,set_name
+называй меня Саша,set_name
+называй меня Дима,set_name
+называй меня Костя,set_name
+называй меня Петя,set_name
+называй меня Макс,set_name
+называй меня Жорик,set_name
+называй меня Боб,set_name
+называй меня Джон,set_name
+зови меня Катя,set_name
+зови меня Олег,set_name
+зови меня Андрей,set_name
+зови меня Денис,set_name
+зови меня Скам,set_name
+зови меня Том,set_name
+зови меня Джек,set_name
+зови меня Макс,set_name
+я Максим,set_name
+я Анна,set_name
+я Вовка,set_name
+я Карл,set_name
+я Антон,set_name
+я Петя,set_name
+я Маша,set_name
+меня звать Олег,set_name
+меня звать Андрей,set_name
+меня звать Денис,set_name
+меня звать Юля,set_name
+как дела,unknown
+что ты умеешь,unknown
+расскажи шутку,unknown
+кто твой создатель,unknown
+сколько времени,unknown
+какой сегодня день,unknown
+помоги мне,unknown
+спасибо,unknown
+что нового,unknown
+как тебя зовут,unknown
+откуда ты,unknown
+ты человек,unknown
+расскажи о себе,unknown
+как настроение,unknown
+что делать,unknown
+зачем ты нужен,unknown
+кто ты,unknown
+сколько тебе лет,unknown
+где ты живешь,unknown
+какие новости,unknown
